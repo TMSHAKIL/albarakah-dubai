@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tmshakil.github.io/albarakah-dubai/sitemap.xml
