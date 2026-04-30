@@ -8,7 +8,34 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://tmshakil.github.io/albarakah-dubai/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tmshakil.github.io/albarakah-dubai/ar/"/>
+  </url>
+
+  <url>
+    <loc>https://tmshakil.github.io/albarakah-dubai/biryani-dubai.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tmshakil.github.io/albarakah-dubai/halal-restaurant-dubai.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tmshakil.github.io/albarakah-dubai/bangladeshi-food-dubai.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tmshakil.github.io/albarakah-dubai/food-delivery-deira.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
